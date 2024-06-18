@@ -12,7 +12,7 @@ title                    : "Yang JiaYu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : "https://yang-jiayu.github.io/"
+url                      : "https://433-y.github.io/Yang-JiaYu.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
