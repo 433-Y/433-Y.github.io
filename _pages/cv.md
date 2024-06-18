@@ -18,7 +18,7 @@ redirect_from:
 * Analysis: Functional Analysis; Real Analysis; Complex Analysis; Harmonic Analysis;
 * Algebra: Linear Algebra; Abstract Algebra;
 * Geometry: Differential Geometry; Riemann Geometry; Point Set Topology;
-* Code: $\LaTeX$; C.
+* Code: LaTeX; C.
 
 ### Achievements
 
