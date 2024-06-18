@@ -11,7 +11,7 @@ redirect_from:
 
 ### Education
 
-* Undergraduate. Xi'an Jiaotong University, 2021-
+* Bachelor. Xi'an Jiaotong University, 2021-
 
 ### Skill
 
