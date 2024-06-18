@@ -9,4 +9,4 @@ redirect_from:
 
 Notes
 ======
-1. [Mathematical Analysis](数学分析笔记.pdf)
+1. ![Mathematical Analysis](../files/数学分析笔记.pdf)
