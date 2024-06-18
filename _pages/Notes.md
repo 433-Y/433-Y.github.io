@@ -10,7 +10,7 @@ redirect_from:
 Notes
 ======
 1. [数学分析](../files/数学分析笔记.pdf)
-2. [偏微分方程](../files/PDE笔记)
+2. [偏微分方程](../files/PDE笔记.pdf)
 
 Some Homeworks
 ======
