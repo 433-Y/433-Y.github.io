@@ -19,7 +19,7 @@ Skill
 * Analysis: Functional Analysis; Real Analysis; Complex Analysis; Harmonic Analysis;
 * Algebra: Linear Algebra; Abstract Algebra;
 * Geometry: Differential Geometry; Riemann Geometry; Point Set Topology;
-* Code: $\Latex$; C.
+* Code: $\LaTeX$; C.
 
 Achievements
 ======
