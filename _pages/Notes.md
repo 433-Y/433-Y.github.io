@@ -15,7 +15,7 @@ Notes
 4. 函数型数据分析讨论班讲稿 [讲稿一(Hilbert Space)](../files/泛函分析讨论班第一次.pdf)，[讲稿二(F/G derivatives)](../files/泛函分析讨论班第二次.pdf)，[讲稿三(Trace Class)](../files/泛函分析讨论班第三次.pdf)，[讲稿四(Regularization Parmeter Selection)](../files/泛函分析讨论班第四次.pdf)
 5. 测度论讨论班讲稿（参考书：《测度论讲义》，严家安）[讲稿一（Monotone Class Theorem)](../files/测度论单调类.pdf)，[讲稿二（Signed Measure)](../files/测度论讨论班讲稿.pdf)
 
-Some Homeworks
+Some Homework
 ======
 1. 偏微分方程（应该有错误，仅供参考）
   * [第二章第二次作业](../files/PDE第二章第二次作业.pdf)
@@ -32,7 +32,7 @@ Some Homeworks
   * [第四次作业](../files/多元数据分析第四次作业.pdf)
 5. 大学计算机（C语言）[代码和思维导图](../files/大学计算机Code+思维导图.zip)
 
-Some Exam
+Some Exams
 ======
 1. [实变函数期末试题](https://zhuanlan.zhihu.com/p/636013901)
 2. [数学分析II期中试题](https://zhuanlan.zhihu.com/p/623727414)
