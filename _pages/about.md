@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Yang JiaYu
+## 杨嘉昱(Yang JiaYu)
 I'm a third year undergraduate student from [Schoole of Mathematics and Statstics](http://math.xjtu.edu.cn), [Xi'an Jiaotong University](http://www.xjtu.edu.cn). 
 
 ## Learning Interests
