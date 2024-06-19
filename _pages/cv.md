@@ -13,14 +13,14 @@ redirect_from:
 
 * Bachelor. Xi'an Jiaotong University, 2021-
 
-### Skill
+### Skills
 
 * Analysis: Functional Analysis; Real Analysis; Complex Analysis; Harmonic Analysis;
 * Algebra: Linear Algebra; Abstract Algebra;
 * Geometry: Differential Geometry; Riemann Geometry; Point Set Topology;
 * Code: LaTeX; C.
 
-### Achievements
+### Awards
 
 
 * The 15th The Chinese Mathematics Competitions, the final (national level, senior group of mathematics) first prize
