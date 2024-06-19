@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Notes and Homeworks"
+title: "Notes and Homework"
 permalink: /Notes/
 author_profile: true
 redirect_from:
