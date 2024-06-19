@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ## Yang JiaYu
-I'm a third year undergraduate sutdent from [Schoole of Mathematics and Statstics](http://math.xjtu.edu.cn), [Xi'an Jiaotong University](http://www.xjtu.edu.cn). 
+I'm a third year undergraduate student from [Schoole of Mathematics and Statstics](http://math.xjtu.edu.cn), [Xi'an Jiaotong University](http://www.xjtu.edu.cn). 
 
 ## Learning Interests
 1. Harmonic Analysis.
