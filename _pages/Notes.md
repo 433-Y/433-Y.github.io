@@ -9,10 +9,11 @@ redirect_from:
 
 Notes
 ======
-1. [数学分析](../files/数学分析笔记.pdf)
-2. [偏微分方程](../files/PDE笔记.pdf)
-3. 函数型数据分析讨论班讲稿 [讲稿一(Hilbert Space)](../files/泛函分析讨论班第一次.pdf)，[讲稿二(F/G derivatives)](../files/泛函分析讨论班第二次.pdf)，[讲稿三(Trace Class)](../files/泛函分析讨论班第三次.pdf)，[讲稿四(Regularization Parmeter Selection)](../files/泛函分析讨论班第四次.pdf)
-4. 测度论讨论班讲稿（参考书：《测度论讲义》，严家安）[讲稿一（Monotone Class Theorem)](../files/测度论单调类.pdf)，[讲稿二（Signed Measure)](../files/测度论讨论班讲稿.pdf)
+1. [数学分析笔记](../files/数学分析笔记.pdf)
+2. [偏微分方程笔记](../files/PDE笔记.pdf)
+3. [泛函分析笔记](../files/泛函分析笔记.pdf)
+4. 函数型数据分析讨论班讲稿 [讲稿一(Hilbert Space)](../files/泛函分析讨论班第一次.pdf)，[讲稿二(F/G derivatives)](../files/泛函分析讨论班第二次.pdf)，[讲稿三(Trace Class)](../files/泛函分析讨论班第三次.pdf)，[讲稿四(Regularization Parmeter Selection)](../files/泛函分析讨论班第四次.pdf)
+5. 测度论讨论班讲稿（参考书：《测度论讲义》，严家安）[讲稿一（Monotone Class Theorem)](../files/测度论单调类.pdf)，[讲稿二（Signed Measure)](../files/测度论讨论班讲稿.pdf)
 
 Some Homeworks
 ======
