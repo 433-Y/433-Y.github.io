@@ -23,6 +23,6 @@ redirect_from:
 ## Awards
 
 
-* The 15th The Chinese Mathematics Competitions, first prize in the final (national level, senior group of mathematics) 
-* The 15th The Chinese Mathematics Competitions, first prize in the preliminary round (provincial, Mathematics A class)
-* The 14th The Chinese Mathematics Competitions, first prize in the preliminary round (provincial, Mathematics A class)
+* The 15th Chinese Mathematics Competitions, first prize in the final (national level, senior group of mathematics) 
+* The 15th Chinese Mathematics Competitions, first prize in the preliminary round (provincial, Mathematics A class)
+* The 14th Chinese Mathematics Competitions, first prize in the preliminary round (provincial, Mathematics A class)
