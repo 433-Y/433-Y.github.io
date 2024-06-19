@@ -38,4 +38,4 @@ Some Exam
 3. [数学分析III期末试题](https://zhuanlan.zhihu.com/p/622818555)
 4. [近世代数期末试题](https://zhuanlan.zhihu.com/p/609422080)
 5. [高等代数上（期中试题）](../files/高代.pdf)
-6. 复旦大学有关面试题及思路（待更新）
+#6. 复旦大学有关面试题及思路（待更新）
