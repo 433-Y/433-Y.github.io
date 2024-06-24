@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "欢迎来到杨嘉昱的个人主页"
+title: "Welcome to Yang JiaYu’s personal website"
 author_profile: true
 redirect_from: 
   - /about/
