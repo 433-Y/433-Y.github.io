@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yang JiaYu"
+title                    : "Yang Jia-Yu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile1.png"
-  name             : "Yang JiaYu"
+  name             : "Yang Jia-Yu"
   pronouns         : # example: "she/her"  
   bio              : "A mathematics student"
   location         : "Xi'an China"
