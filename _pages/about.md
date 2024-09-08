@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Yang JiaYu’s personal website"
+title: "Welcome to Yang Jia-Yu’s personal website"
 author_profile: true
 redirect_from: 
   - /about/
