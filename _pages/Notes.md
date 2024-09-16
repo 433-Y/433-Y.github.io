@@ -18,7 +18,7 @@ redirect_from:
 7. 测度论讨论班讲稿（参考书：严家安，《[测度论讲义](../files/测度论讲义.pdf)》）[讲稿一](../files/测度论单调类.pdf)（Monotone Class Theorem)，[讲稿二](../files/测度论讨论班讲稿.pdf)（Signed Measure)
 8. 调和分析讨论班讲稿（参考书：Stein，[Harmonic Analysis](../files/Harmonic_Analysis_Stein.pdf)）[讲稿一](../files/调和分析讨论班第二次.pdf)（二进极大函数），[讲稿二](../files/调和分析讨论班第三次.pdf)（Calderon-Zygmund分解）
 9. PDE辅导讲稿：[讲稿一](../files/pde第一次.pdf)（特征线法、行波法），[讲稿二](../files/pde第二次.pdf)（分离变量法），[讲稿三](../files/pde第三次.pdf)（能量估计），[讲稿四](../files/pde第四次.pdf)（广义函数已经基本解），[讲稿五](../files/pde第五次.pdf)（Green函数等）
-10. 测度论辅导讲稿：[讲稿一](../files.测度论第一次-作业.pdf)，[讲稿二](../files.测度论第二次-作业.pdf)，[讲稿三](../files.测度论第三次-作业.pdf)。
+10. 测度论辅导讲稿：[讲稿一](../files/测度论第一次-作业.pdf)，[讲稿二](../files/测度论第二次-作业.pdf)，[讲稿三](../files/测度论第三次-作业.pdf)。
 
 ## Some Homework
 
