@@ -11,7 +11,7 @@ redirect_from:
 
 1. [数学分析笔记](../files/数学分析笔记.pdf)
 2. [常微分方程笔记](../files/ODE笔记.pdf)
-3. [偏微分方程笔记](../files/PDE笔记.pdf)（写的不全，但是懒得写了TT）
+3. [偏微分方程笔记](../files/PDE笔记.pdf)
 4. [泛函分析笔记](../files/泛函分析笔记.pdf)
 5. [黎曼几何笔记](../files/黎曼几何笔记.pdf) 
 6. 函数型数据分析讨论班讲稿（参考书：Tailen Hsing, [Theoretical Foundations of Functional Data Analysis](../files/Hsing_Theoretical Foundations_of_Functional_Data_Analysis_2015.pdf) ） [讲稿一](../files/泛函分析讨论班第一次.pdf)(Hilbert Space)，[讲稿二](../files/泛函分析讨论班第二次.pdf)(F/G derivatives)，[讲稿三](../files/泛函分析讨论班第三次.pdf)(Trace Class)，[讲稿四](../files/泛函分析讨论班第四次.pdf)(Regularization Parmeter Selection)
