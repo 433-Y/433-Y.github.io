@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Yang Jia-Yu
-I'm a fourth year undergraduate student from [Schoole of Mathematics and Statstics](http://math.xjtu.edu.cn), [Xi'an Jiaotong University](http://www.xjtu.edu.cn). 
+## 杨嘉昱
+[xxxx西安交通大学](http://www.xjtu.edu.cn)，[数学与统计学院](http://math.xjtu.edu.cn)，大四在读。
 
-## Learning Interests
-1. Harmonic Analysis.
-2. Partial Differential Equations.
+## 兴趣方向
+1. 调和分析.
+2. 偏微分方程.
