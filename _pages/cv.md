@@ -27,5 +27,3 @@ redirect_from:
 * 第15届全国大学生数学竞赛决赛（数学类高年级组）省国家级一等奖
 * 第15届全国大学生数学竞赛初赛（数学A类）省级一等奖
 * 第14届全国大学生数学竞赛初赛（数学A类）省级一等奖
-* The 15th Chinese Mathematics Competitions, first prize in the preliminary round (provincial, Mathematics A class)
-* The 14th Chinese Mathematics Competitions, first prize in the preliminary round (provincial, Mathematics A class)
