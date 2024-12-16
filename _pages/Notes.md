@@ -23,7 +23,7 @@ redirect_from:
 ## Some Homework
 
 1. 偏微分方程
-  * [第一章](../files/PDE第一章.pdf)
+  * [第一章作业](../files/PDE第一章.pdf)
   * [第二章第一次作业](../files/PDE第一章第二次作业.pdf)
   * [第二章第二次作业](../files/PDE第二章第二次作业.pdf)
   * [第三章作业](../files/PDE第三章作业.pdf)
