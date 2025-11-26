@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 ## 杨嘉昱
-[西安交通大学](http://www.xjtu.edu.cn)，[数学与统计学院](http://math.xjtu.edu.cn)，大四在读。
+
+[西安交通大学](http://www.xjtu.edu.cn)本科（已毕业），复旦大学直博，博一在读.
 
 ## 兴趣方向
 1. 调和分析.
