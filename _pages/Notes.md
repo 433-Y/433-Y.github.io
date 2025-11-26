@@ -22,14 +22,14 @@ redirect_from:
 
 ## Some Homework
 
-1. 偏微分方程
+1. 偏微分方程（西安交通大学）
   * [第一章作业](../files/PDE第一章作业.pdf)
   * [第二章第一次作业](../files/PDE第二章第二次作业.pdf)
   * [第二章第二次作业](../files/PDE第二章第二次作业.pdf)
   * [第三章作业](../files/PDE第三章作业.pdf)
   * [第四章作业](../files/PDE第四章作业.pdf)
 2. [黎曼几何报告](../files/黎曼几何报告.pdf)
-3. 矩阵分析
+3. 矩阵分析（西安交通大学）
   * [第二次作业](../files/矩阵分析第二次作业.pdf)
   * [第三次作业](../files/矩阵分析第三次作业.pdf)
 4. 多元数据分析
@@ -37,8 +37,8 @@ redirect_from:
   * [第二次作业](../files/多元数据分析第二次作业.pdf)
   * [第三次作业](../files/多元数据分析第三次作业.pdf)
   * [第四次作业](../files/多元数据分析第四次作业.pdf)
-5. 大学计算机（C语言）[代码和思维导图](../files/大学计算机Code+思维导图.zip)
-6. 随机过程
+5. 大学计算机（C语言）（西安交通大学）[代码和思维导图](../files/大学计算机Code+思维导图.zip)
+6. 随机过程（西安交通大学）
   * [第一次作业](../files/随机过程第一次作业.pdf)
   * [第二次作业](../files/随机过程第二次作业.pdf)
   * [第三次作业](../files/随机过程第三次作业.pdf)
@@ -47,9 +47,9 @@ redirect_from:
 
 ## Some Exams
 
-1. [实变函数期末试题](https://zhuanlan.zhihu.com/p/636013901)
-2. [数学分析II期中试题](https://zhuanlan.zhihu.com/p/623727414)
-3. [数学分析III期末试题](https://zhuanlan.zhihu.com/p/622818555)
-4. [近世代数期末试题](https://zhuanlan.zhihu.com/p/609422080)
-5. [高等代数上（期中试题）](../files/高代.pdf)
+1. [实变函数期末试题](https://zhuanlan.zhihu.com/p/636013901)（西安交通大学）
+2. [数学分析II期中试题](https://zhuanlan.zhihu.com/p/623727414)（西安交通大学）
+3. [数学分析III期末试题](https://zhuanlan.zhihu.com/p/622818555)（西安交通大学）
+4. [近世代数期末试题](https://zhuanlan.zhihu.com/p/609422080)（西安交通大学）
+5. [高等代数上（期中试题）](../files/高代.pdf)（西安交通大学）
 
