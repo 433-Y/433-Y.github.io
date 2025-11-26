@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile1.png"
-  name             : "Yang Jia-Yu"
+  name             : "杨嘉昱"
   pronouns         : # example: "she/her"  
-  bio              : "A mathematics student"
-  location         : "Xi'an China"
-  employer         : "Xi'an Jiaotong University"
+  bio              : "数学博士生"
+  location         : "上海"
+  employer         : "复旦大学"
   uri              : # URL
-  email            : "yjyxbhsx@126.com" 
+  email            : "Yangjy25@m.fudan.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
